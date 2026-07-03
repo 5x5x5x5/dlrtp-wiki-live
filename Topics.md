@@ -17,3 +17,4 @@ link it below.
 *(none yet)*
 
 - **W0 acceptance probe** — added anonymously, kept as the wiki's first real edit
+- **Public-internet probe** — anonymous edit through the funnel
