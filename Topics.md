@@ -8,6 +8,8 @@ when someone volunteers to present.
 
 - **Attention from scratch** — whiteboard-level walkthrough before transformer papers.
 - **Fine-tuning on a single GPU** — practical LoRA/QLoRA with hardware people own.
+- **Mechanistic Interpretability**
+- **Modifying base models with LoRA**
 
 ## Session notes
 
